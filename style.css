@@ -1,0 +1,31 @@
+.cmsn {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.gift {
+  background-image: url(./image/gift.png);
+  background-size: cover;
+  height: 200px;
+  width: 200px;
+}
+
+.picture {
+  margin-top: 30px;
+  display: none;
+  justify-content: center;
+  align-items: center;
+}
+
+.image {
+  background-image: url(./image/image.png);
+  height: 0;
+  width: 1000px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
