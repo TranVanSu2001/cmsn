@@ -17,8 +17,9 @@
   display: none;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
 }
-
+/* 
 .image {
   background-image: url(./image/image.png);
   height: 0;
@@ -28,4 +29,71 @@
   display: flex;
   justify-content: center;
   align-items: center;
+} */
+
+.image1 {
+  background-image: url(./image/image1.jpg);
+  height: 0;
+  width: 1000px;
+  margin-top: 30px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image2 {
+  background-image: url(./image/image2.JPG);
+  height: 0;
+  width: 1000px;
+  margin-top: 30px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image3 {
+  background-image: url(./image/image3.JPG);
+  height: 0;
+  width: 1000px;
+  margin-top: 30px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image4 {
+  background-image: url(./image/image4.JPG);
+  height: 0;
+  width: 1000px;
+  margin-top: 30px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image5 {
+  background-image: url(./image/birth.png);
+  height: 0;
+  width: 500px;
+  margin-top: 30px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text {
+  display: none;
+  font-size: 38px;
+  margin-top: 30px;
+  color: rgb(167, 28, 28);
 }
